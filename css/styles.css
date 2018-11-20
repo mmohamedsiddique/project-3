@@ -193,8 +193,8 @@ h1.textheading {
 .header li {
   	text-decoration: none;
   	overflow: scroll;
-	text-align: rightt;
-}
+	text-align: right;
+)
 
 .header h2 {
   	float: left;
