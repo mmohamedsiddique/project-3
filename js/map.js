@@ -5,7 +5,7 @@ function initMap(){
   
   var map = new google.maps.Map(
     document.getElementById('map'), {
-    zoom: 12.5, center: bridge
+    zoom: 30, center: bridge
     }
   );
 
