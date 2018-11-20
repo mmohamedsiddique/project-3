@@ -1,11 +1,11 @@
 function initMap(){
-  var tokyo = {lat: 35.714436, lng: 139.729721};
-  var shinjuku = {lat: 35.687435, lng: 139.708514};
-  var iidabashistation = {lat: 35.42078, lng: 139.44395};
-  
-  var map = new google.maps.Map(
-    document.getElementById('map'), {
-    zoom: 13, center: {lat: 35.714436, lng: 139.729721},
-    }
-  );
+  map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 35.714436, lng: 139.729721},
+          zoom: 12
+        });
+      }
 }
+
+
+
+
