@@ -154,6 +154,24 @@ body {
 h1.textheading {
   	font-size: 2.65em;
 }
+.slideshow {
+  width: 100%;
+  margin: 10px auto;
+  vertical-align: middle;
+}
+slideshow img {
+
+width: 60%;
+  	height: auto;
+  	float: right;
+  	margin: 10px;
+  	box-shadow: 2px 2px 3px #888888;
+}
+#location {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
 /*end of main*/
 /*resume*/
 .resume {
@@ -204,6 +222,7 @@ h3.textheading {
 h4 {
   	margin-left: 4%;
 }
+
 /*end of resume*/
 /*Japan*/
 img.japan{
