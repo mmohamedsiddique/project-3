@@ -231,4 +231,13 @@ video {
   font-size: 40px;
   color: purple;
  }
+ #map {
+  height: 600px;
+  width: 70%;
+  margin:auto;
+  border: 10px dotted black;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
 /*end of Japan*/
